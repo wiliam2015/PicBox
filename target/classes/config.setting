@@ -1,0 +1,11 @@
+# -------------------------------------------------------------
+# ----- Setting File with UTF8-----
+# ----- PicBox配置文件 -----
+# -------------------------------------------------------------
+# 托盘右键菜单
+text.screenshot=截图
+text.disable.keyboard.shortcuts=禁用快捷键
+text.preferences=首选项
+text.help=帮助
+text.check.update=检查更新
+text.exit=退出
